@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<div style="display:'center', align-items:'center', justify-content:'center', flex-direction:'column'">
 <h2 style="text-align: center;">I like to learn new things and code 😊😊 </h2>
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
