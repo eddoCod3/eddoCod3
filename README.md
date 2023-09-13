@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div style="position:absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);">
+<div  align="center">
     <h2 style="text-align: center;">I like to learn new things and code 😊😊 </h2>
     
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
