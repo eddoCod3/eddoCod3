@@ -1,4 +1,3 @@
-### Hi there 👋
 <div  align="center">
     <p style="text-align: center;">"Hey there, I'm Eduardo Nila,  I get a kick out of creating all sorts of programs, especially diving into the worlds of video games and web development tech. I'm the type who's always thirsty for knowledge, constantly on the hunt for new frameworks and tools to play around with."</p>
    
